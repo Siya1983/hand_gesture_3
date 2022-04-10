@@ -1,0 +1,24 @@
+
+body
+{
+  color: #ffffff;
+  background: url(1.webp);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px;
+} 
+
+
+label {
+background-color: aliceblue;
+color: green;
+
+}
+
